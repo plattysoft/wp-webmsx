@@ -1,7 +1,7 @@
 <?php
     /*
     Plugin Name: WebMSX
-    Plugin URI: https://plattysoft.com
+    Plugin URI: https://github.com/plattysoft/wp-webmsx
     description: A plugin to embed WebMSX into wordpress
     Version: 1.0
     Author: Raul Portales
